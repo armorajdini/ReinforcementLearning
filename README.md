@@ -200,8 +200,6 @@ wurde **konzeptionell** genutzt, insbesondere für:
 -   Q-Learning-Ansatz
 -   Grundidee von Bottleneck-Penalties
 
-Der gesamte Code, das Reward-Design, die Erweiterungen sowie die Visualisierung wurden **eigenständig entwickelt**.
-
 * * * * *
 
 **Erweiterungsmöglichkeiten**
